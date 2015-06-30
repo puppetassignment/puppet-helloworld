@@ -1,5 +1,5 @@
  class helloworld {
 
-    notify { 'hello, world!': }
+    notify { 'hello, World, Welcome to PE!': }
 
  }
