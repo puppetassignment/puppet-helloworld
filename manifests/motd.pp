@@ -4,7 +4,7 @@
     owner   => 'root',
     group   => 'root',
     mode    => '0644',
-    content => "hello, World! Welcome to PE !!\n",
+    content => "hello, World! Welcome to Puppet Enterprise !!\n",
     }
 
  }
